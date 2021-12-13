@@ -2,7 +2,7 @@
 
 Pour lancer le jeu, lancez la commande : $python mainInvaders.py
 
-Un message d'erreur vous disant que le jeu est ouvert dans un fenêtre de terminale trop petite peut apparaitre. Dans ce cas, agrandissez la fenêtre ou mettez la en plein écran appuyant sur F11.
+Un message d'erreur vous disant que le jeu est ouvert dans un fenêtre de terminal trop petite peut apparaitre. Dans ce cas, agrandissez la fenêtre ou mettez la en plein écran appuyant sur F11.
 
 Entrez votre nom comme le jeu vous le demande. Merci de de rentrer que des lettres non accentuées. 
 
